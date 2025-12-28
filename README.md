@@ -35,22 +35,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhoHamdaniPutra&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=RidhoHamdaniPutra&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoHamdaniPutra&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/RidhoHamdaniPutra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:your-email@example.com">
@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0A66C2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RidhoHamdaniPutra&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
 <p align="center">
