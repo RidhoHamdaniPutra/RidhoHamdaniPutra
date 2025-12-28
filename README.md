@@ -8,22 +8,22 @@
 
 ---
 
-### 🎓 Tentang Saya
+## 🎓 Tentang Saya
 - 🎓 Mahasiswa **Universitas Negeri Padang**
 - 💻 Fokus belajar **Pemrograman, Data Mining, dan Software Development**
 - 🌱 Saat ini mendalami **Python, JavaScript, dan Flutter**
-- 🚀 Tertarik pada pengembangan aplikasi & analisis data
+- 🚀 Tertarik pada pengembangan aplikasi, analisis data, dan teknologi baru
 
 ---
 
-### 🧠 Bahasa & Teknologi
+## 🧠 Bahasa & Teknologi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,dart,flutter,html,css,mysql,git,github,linux" />
 </p>
 
 ---
 
-### 🛠️ Tools & Framework
+## 🛠️ Tools & Framework
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -33,29 +33,32 @@
 
 ---
 
-### 📊 GitHub Stats
+## ✨ GitHub Activity Summary
+- 📂 Aktif mengerjakan proyek perkuliahan dan latihan pemrograman  
+- 🧠 Mengembangkan logika dan problem solving melalui coding  
+- 📈 Terbiasa menggunakan **Git & GitHub** untuk version control  
+- 🔍 Memiliki ketertarikan pada **Data Mining dan Software Development**
+
+---
+
+## 🏷️ Profile Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhoHamdaniPutra&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=RidhoHamdaniPutra&theme=tokyonight" width="48%"/>
+  <img src="https://img.shields.io/badge/Status-Student-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Major-Informatics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/University-Universitas%20Negeri%20Padang-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoHamdaniPutra&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/RidhoHamdaniPutra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ridhohamdaniputra@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  -->
 </p>
 
 ---
